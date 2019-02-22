@@ -1,0 +1,31 @@
+{
+  "name": "empire",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Vedat",
+  "license": "ISC",
+  "dependencies": {
+    "cat": "^0.2.0",
+    "command": "0.0.5",
+    "common": "^0.2.5",
+    "discord.js": "^11.4.2",
+    "duration": "^0.2.2",
+    "evaluator": "^1.0.2",
+    "expression": "0.0.1",
+    "format": "^0.2.2",
+    "jimp": "^0.6.0",
+    "math": "0.0.3",
+    "moment": "^2.23.0",
+    "names": "^1.0.0",
+    "opusscript": "0.0.6",
+    "simple-youtube-api": "^5.1.1",
+    "tags": "^2.0.10",
+    "weather-js": "^2.0.0",
+    "weather.js": "^0.1.0",
+    "ytdl-core": "^0.29.1"
+  }
+}
